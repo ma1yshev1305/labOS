@@ -10,5 +10,5 @@
 - lab2 - сегментация дисков, восстановление данных благодаря RAID и LVM, хранение логов на отдельном диске  
 - lab3 - bash скрипты, которые решают suzen  
 
-![Картинка]()  
+![Картинка](https://raw.githubusercontent.com/ma1yshev1305/labOS/master/lab2/screenshot/1200px-Tux.svg.png)  
  
